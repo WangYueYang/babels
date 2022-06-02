@@ -1,0 +1,15 @@
+{
+  "name": "babels",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WangYueYang/babels.git",
+  "author": "wangyueyang <1632085751@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/generator": "^7.18.2",
+    "@babel/parser": "^7.18.4",
+    "@babel/template": "^7.16.7",
+    "@babel/traverse": "^7.18.2",
+    "@babel/types": "^7.18.4"
+  }
+}
